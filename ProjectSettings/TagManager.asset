@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1900314419
+    locked: 0
+  - name: enenmy
+    uniqueID: 1518724653
+    locked: 0
+  - name: plataform
+    uniqueID: 620975067
+    locked: 0
+  - name: player
+    uniqueID: 984229479
+    locked: 0
+  - name: hub
+    uniqueID: 3171545399
+    locked: 0
+  - name: color
+    uniqueID: 2317103847
+    locked: 0
